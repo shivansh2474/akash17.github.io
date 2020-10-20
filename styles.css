@@ -1,0 +1,155 @@
+#title {
+  background-color: #ff4c68;
+  color: #fff;
+}
+
+.row h1 {
+  font-family: "Montserrat";
+  font-size: 3rem;
+  line-height: 1.5;
+  padding-top: 1.5rem;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Ubuntu', sans-serif
+  ;
+}
+
+.container {
+  padding: 5% 20%;
+}
+
+.navbar-brand {
+  size:20%;
+}
+
+.navbar {
+  padding-bottom: 20%;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.3rem;
+  font-family: "montserrat-light";
+}
+
+.row img {
+  padding-left: 2rem;
+  padding-top: 2rem;
+}
+
+.download-button {
+  margin: 5% 3% 5% 0;
+}
+
+
+.download-circle {
+  font-size: 3.5rem;
+  padding-bottom: 1.5rem;
+  color: #ef8172;
+}
+
+.download-eye {
+  font-size: 3.5rem;
+  padding-bottom: 1.5rem;
+  color: #ef8172;
+}
+
+.download-heart {
+  font-size: 3.5rem;
+  padding-bottom: 1.5rem;
+  color: #ef8172;
+}
+
+h3 {
+  font-size: 2.5rem;
+  font-family: "montserrat-bold"
+}
+
+#features p {
+  color: #8f8f8f;
+}
+
+#features {
+  padding-top: 8rem;
+  padding-left: 15rem;
+  padding-bottom: 10rem;
+}
+
+.download-circle:hover {
+  color: #ff4c68;
+}
+
+.download-eye:hover {
+  color: #ff4c68;
+}
+
+.download-heart:hover {
+  color: #ff4c68;
+}
+#testimonials{
+
+  background-color:  #ef8172;
+  text-align: center;
+  color: #fff;
+  padding-bottom: 5rem;
+
+}
+h2{font-family: "Montserrat-Bold";
+font-size: 3rem;
+line-height: 1.5;}
+.image-d{width: 10%; border-radius: 100%;
+padding-top: 3rem;
+padding-bottom: 2rem;
+padding-left: 2rem;}
+#testimonials h2 { padding-top: 2rem;}
+#press{  background-color:  #ef8172;
+}
+.photo-d{width: 10%;
+padding: 20 20 50%;
+
+;text-align: center;}
+.title-image{
+  width: 70%;
+}
+.About-1{
+  background-color: #ff4c68;
+}
+.Ak8{
+  width: 15%;
+  padding-left: 630px;
+  padding-top: 25px;
+}
+.bb{color: #fff;
+padding-top: 25px;}
+.h{
+  padding-top: 30px;
+  font-size: 1.5rem;
+}
+.bomb{
+
+width: 50%;
+padding-left: 50px;
+}
+.six{
+  background-color: #ff4c68;
+}
+.love{
+  color: #fff;
+}
+.ac{
+  font-style: italic;
+  font-size: 1.5rem;
+}
+.boy{
+  background-color: #ff4c68;
+}
+.game{
+    color: #fff;
+}
+.one{padding-top: 30px;}
+.two{padding-top: 20px;}
